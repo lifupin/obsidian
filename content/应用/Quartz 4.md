@@ -6,3 +6,5 @@
 
 # 111
 
+cd 
+npx quartz sync
