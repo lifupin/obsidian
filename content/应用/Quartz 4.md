@@ -5,6 +5,4 @@
 
 
 # 111
-
-cd 
-npx quartz sync
+这几个命令 你给我封装成一键执行  在cmd上
