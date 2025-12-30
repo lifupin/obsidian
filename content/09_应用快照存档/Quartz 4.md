@@ -3,6 +3,3 @@
 ![image.png](https://pin-1259308741.cos.ap-guangzhou.myqcloud.com/20250725142832105.png)
 ![image.png](https://pin-1259308741.cos.ap-guangzhou.myqcloud.com/20250725143016955.png)
 
-
-# 111
-这几个命令 你给我封装成一键执行  在cmd上
